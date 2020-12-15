@@ -2,11 +2,11 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya FERDIZ-afk).
 */
-const BotName = '🌹VIRA🍀'; // Nama Bot Whatsapp
-const instagramlu = 'takut ada yang ngehack'; // Nama Instagramlu cok
-const whatsapplu = 'Wa.me/+6287877173955'; // Nomor whatsapplu cok
+const BotName = '😲Samsoel😲'; // Nama Bot Whatsapp
+const instagramlu = '@mazhazel_'; // Nama Instagramlu cok
+const whatsapplu = 'Wa.me/+628987183535'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/ENi1EZQYptB2krWzRMUoqo'; // OFFICIAL GRUP LU 1
+const grupch1 = '-'; // OFFICIAL GRUP LU 1
 const grupch2 = ' '; // OFFICIAL GRUP LU 2
 const grupch3 = ' '; // OFFICIAL GRUP LU 3
 //

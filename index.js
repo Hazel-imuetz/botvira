@@ -198,118 +198,119 @@ else if (text == 'TEST')
 
 //Chat A187 ID
 /*else if (text == 'assalamualaikum'){
-conn.sendMessage(id, 'waalaikumsalam, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, 'waalaikumsalam' ,MessageType.text);
 }
 else if (text == 'salam'){
-conn.sendMessage(id, 'Waalaikumsalam, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam' ,MessageType.text);
 }
 else if (text == 'asalamualaikum'){
-conn.sendMessage(id, 'Waalaikumsalam, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam' ,MessageType.text);
 }
 else if (text == 'Assalamualaikum'){
-conn.sendMessage(id, 'Waalaikumsalam, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam' ,MessageType.text);
 }
-else if (text == 'p'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+else if (text == ''){
+conn.sendMessage(id, '' ,MessageType.text);
 }
-else if (text == 'P'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+else if (text == ''){
+conn.sendMessage(id, '' ,MessageType.text);
 }
-else if (text == 'Halo'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+else if (text == ''){
+conn.sendMessage(id, '' ,MessageType.text);
 }*/
 else if (text == 'Asu'){
-conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == '.owner'){
-conn.sendMessage(id, 'Owner BOTvira http://Wa.me/+6287877173955?text=' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'vira'){
-conn.sendMessage(id, 'Aku BOT nya FERDIZ-AFK' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Ngentod'){
-conn.sendMessage(id, 'Pengin ngentod sama anjing aja?' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Anjing'){
-conn.sendMessage(id, 'Jangan toxic goblog' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Bacot'){
-conn.sendMessage(id, 'lu bacot_-' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }/*
 else if (text == 'Test'){
-conn.sendMessage(id, 'Test 1,2,3 ketik .menu cuk' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Hai'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi Contoh .menu cuk' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Woi'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi Contoh .menu cuk' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Eoy'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Hi'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Gan'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Sis'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Bro'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Min'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Sayang'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }*/
 else if (text == 'I love u'){
-conn.sendMessage(id, 'love you too' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Mas'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Mba'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Bre'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Cuy'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Euy'){
-conn.sendMessage(id, 'Ya?, Ketik .menu cuk/.info/.donasi' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'makasi'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Makasih'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'makasih'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'intro'){
-conn.sendMessage(id, '[ *NEW MEMBER IN GROUP* ]\nHai *MEMBER BARU* selamat datang di grub\nMASUK DARI LINK YA \nJANGAN lupa intro terlebih dahulu ☺️☺️☺️\n\n✓NAMA          :\n✓UMUR           :\n✓ASAL KOTA :\n✓STATUS        :\n\n\n\nBUDAYAKAN MEMBACA PERATURAN GRUB INI YA GUYS\n\nSEMOGA BETAH\n\n\n\nTerima Kasih!! \r\n\r\n \n \r' ,MessageType.text);
+conn.sendMessage(id, '',MessageType.text);
 }
 else if (text == 'thank'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
+	
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Thank'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'thanks'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == 'Thanks'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 else if (text == '.18+dewasa'){
-conn.sendMessage(id, 'coba lu comand !animehentai' ,MessageType.text);
+conn.sendMessage(id, '' ,MessageType.text);
 }
 
 // Fitur
